@@ -65,4 +65,4 @@ def webhook():
 
 
 if __name__ == "__main__":
-    app.run(host='150.136.53.164')
+    app.run()
